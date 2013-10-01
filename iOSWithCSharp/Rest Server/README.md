@@ -19,8 +19,8 @@ The full REST API for people server consists of the following methods:
 
 METHOD        | URL           | ACTION  
 ------------- | ------------- | ------
-`GET`         | `/people`     | Retrieve all people 
-`POST`        | `/people`     | Add a new person
+GET           | /people       | Retrieve all people 
+POST          | /people       | Add a new person
 
 #### Testing the API using cURL
 
