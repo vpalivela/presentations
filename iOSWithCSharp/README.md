@@ -3,6 +3,8 @@ If you want to test your API before using it in a client application, run the se
 
 #### Run Locally
 
+Go to http://nodejs.org and install NodeJS
+
 ###### Install all the dependencies:
 
     npm install (you may need to prefix this with sudo if you're on Mac)
