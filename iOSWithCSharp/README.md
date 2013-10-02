@@ -29,7 +29,7 @@ Go to http://nodejs.org and install NodeJS
 
     npm start
 
-###### Then navigate to [http://localhost:3000/people](http://localhost:3000/people)
+###### Then navigate to [http://localhost:3000/peeps](http://localhost:3000/peeps)
 
 #### Avaliable Resources
 
@@ -37,8 +37,8 @@ The full REST API for people server consists of the following methods:
 
 METHOD        | URL           | ACTION  
 ------------- | ------------- | ------
-GET           | /people       | Retrieve all people 
-POST          | /people       | Add a new person
+GET           | /peeps        | Retrieve all people 
+POST          | /peeps        | Add a new person
 
 #### Testing the API using cURL
 
@@ -46,9 +46,9 @@ Using cURL, you can test the API with the following commands:
 
 ###### Get all people:
 		
-	$ curl -i -X GET http://localhost:3000/people
+	$ curl -i -X GET http://localhost:3000/peeps
 
 ###### Add a new person:
 		
-	$ curl -i -H "Content-Type: application/json" -H "Accept: application/json" -X POST -d '{"Name":"bob"}' http://localhost:3000/people
+	$ curl -i -H "Content-Type: application/json" -H "Accept: application/json" -X POST -d '{"Name":"bob"}' http://localhost:3000/peeps
 
