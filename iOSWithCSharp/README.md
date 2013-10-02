@@ -1,5 +1,5 @@
-## iOS Development With C#
-This folder contains iOS Solutions implemented using Xamarin.iOS
+## iOS Development With C-Sharp
+This folder contains iOS Solutions implemented using Xamarin.iOS at NDDNUG on October 2, 2013
 
 ***
 ### Overview
