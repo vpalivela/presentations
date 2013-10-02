@@ -5,10 +5,10 @@ This folder contains iOS Solutions implemented using Xamarin.iOS
 ### Overview
 There are 4 Projects implemented.
 
-* Hello World - Learn how the button click events work in iOS
-* Hello Views - Learn how navigation between different view controllers work in iOS.
-* Hello Rest  - Learn how to communicate with a Rest Service in iOS
-* Rest Server - The server used for Hello Rest demo.
+* **Hello World** - Learn how the button click events work in iOS
+* **Hello Views** - Learn how navigation between different view controllers work in iOS.
+* **Hello Rest**  - Learn how to communicate with a Rest Service in iOS
+* **Rest Server** - The server used for Hello Rest demo.
 
 ***
 ### Implementing the REST API
