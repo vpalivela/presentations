@@ -1,22 +1,24 @@
-# iOS Development With C#
+## iOS Development With C#
 This folder contains iOS Solutions implemented using Xamarin.iOS
 
-## Overview
+***
+### Overview
 There are 4 Projects implemented.
 
-### Hello World
+#### Hello World
 Learn how the button click events work in iOS
 
-### Hello Views
+#### Hello Views
 Learn how navigation between different view controllers work in iOS.
 
-### Hello Rest
+#### Hello Rest
 Learn how to communicate with a Rest Service in iOS
 
-### Rest Server
+#### Rest Server
 The server used for Hello Rest demo.
 
-#### Implementing the REST API
+***
+### Implementing the REST API
 
 If you want to test the API before using it in a client application, run the server locally and then you can invoke the REST services straight from a browser address bar. 
 
