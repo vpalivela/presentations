@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloRest.iOS", "HelloRest.iOS\HelloRest.iOS.csproj", "{71ECEF43-0E5C-46D3-AFB9-A99E322525C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloRest.Models", "HelloRest.Models\HelloRest.Models.csproj", "{37469B58-5F48-4DF0-B30E-03F5121665B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37469B58-5F48-4DF0-B30E-03F5121665B8}.Ad-Hoc|iPhone.ActiveCfg = Release|Any CPU
+		{37469B58-5F48-4DF0-B30E-03F5121665B8}.Ad-Hoc|iPhone.Build.0 = Release|Any CPU
+		{37469B58-5F48-4DF0-B30E-03F5121665B8}.AppStore|iPhone.ActiveCfg = Release|Any CPU
+		{37469B58-5F48-4DF0-B30E-03F5121665B8}.AppStore|iPhone.Build.0 = Release|Any CPU
+		{37469B58-5F48-4DF0-B30E-03F5121665B8}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{37469B58-5F48-4DF0-B30E-03F5121665B8}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{37469B58-5F48-4DF0-B30E-03F5121665B8}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{37469B58-5F48-4DF0-B30E-03F5121665B8}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{37469B58-5F48-4DF0-B30E-03F5121665B8}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{37469B58-5F48-4DF0-B30E-03F5121665B8}.Release|iPhone.Build.0 = Release|Any CPU
+		{37469B58-5F48-4DF0-B30E-03F5121665B8}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{37469B58-5F48-4DF0-B30E-03F5121665B8}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{71ECEF43-0E5C-46D3-AFB9-A99E322525C5}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{71ECEF43-0E5C-46D3-AFB9-A99E322525C5}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{71ECEF43-0E5C-46D3-AFB9-A99E322525C5}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{71ECEF43-0E5C-46D3-AFB9-A99E322525C5}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{71ECEF43-0E5C-46D3-AFB9-A99E322525C5}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{71ECEF43-0E5C-46D3-AFB9-A99E322525C5}.Debug|iPhone.Build.0 = Debug|iPhone
+		{71ECEF43-0E5C-46D3-AFB9-A99E322525C5}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{71ECEF43-0E5C-46D3-AFB9-A99E322525C5}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{71ECEF43-0E5C-46D3-AFB9-A99E322525C5}.Release|iPhone.ActiveCfg = Release|iPhone
+		{71ECEF43-0E5C-46D3-AFB9-A99E322525C5}.Release|iPhone.Build.0 = Release|iPhone
+		{71ECEF43-0E5C-46D3-AFB9-A99E322525C5}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{71ECEF43-0E5C-46D3-AFB9-A99E322525C5}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = HelloRest.iOS\HelloRest.iOS.csproj
+	EndGlobalSection
+EndGlobal

@@ -14,15 +14,17 @@ app.use(express.methodOverride());
 app.use(express.bodyParser());  
 app.use(app.router);
 
-app.get('/people', function (req, res) {
+app.get('/peeps', function (req, res) {
 	res.writeHead(200, { 'Content-Type': 'application/json' });
 	res.write(JSON.stringify(people));
+	console.log("Returned: "+ JSON.stringify(people))
 	res.end();
 });
 
-app.post('/people', function (req, res) {
+app.post('/peeps', function (req, res) {
 	people.push(req.body);
 	res.writeHead(200, { 'Content-Type': 'application/json' });
 	res.write(JSON.stringify(req.body));
+	console.log("Created: " + JSON.stringify(req.body))
 	res.end();
 });
