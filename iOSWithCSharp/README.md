@@ -1,7 +1,7 @@
 ## iOS Development With C-Sharp
 This folder contains iOS Solutions implemented using Xamarin.iOS at NDDNUG on October 2, 2013. 
 
-The slides for the talk are located on [my site](http://venkatpalivela.com/talks/talk/ios-development-csharp-nddnug)
+The slides for the talk are located on [my site](http://venkatpalivela.com/talks/ios-development-csharp-nddnug)
 
 ***
 ### Overview
